@@ -1,4 +1,0 @@
-C:\Users\LAB\Desktop\C#\practicals\Prac1A1\Prac1A1\bin\Prac1A1.dll
-C:\Users\LAB\Desktop\C#\practicals\Prac1A1\Prac1A1\bin\Prac1A1.pdb
-C:\Users\LAB\Desktop\C#\practicals\Prac1A1\Prac1A1\obj\Debug\Prac1A1.dll
-C:\Users\LAB\Desktop\C#\practicals\Prac1A1\Prac1A1\obj\Debug\Prac1A1.pdb
