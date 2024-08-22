@@ -1,0 +1,4 @@
+C:\Users\LAB\Desktop\C#\practicals\Prac1D1\Prac1D1\bin\Prac1D1.dll
+C:\Users\LAB\Desktop\C#\practicals\Prac1D1\Prac1D1\bin\Prac1D1.pdb
+C:\Users\LAB\Desktop\C#\practicals\Prac1D1\Prac1D1\obj\Debug\Prac1D1.dll
+C:\Users\LAB\Desktop\C#\practicals\Prac1D1\Prac1D1\obj\Debug\Prac1D1.pdb

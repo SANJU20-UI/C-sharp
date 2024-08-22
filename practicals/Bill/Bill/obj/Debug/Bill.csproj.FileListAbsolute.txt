@@ -1,0 +1,4 @@
+C:\Users\LAB\Desktop\C#\practicals\Bill\Bill\bin\Bill.dll
+C:\Users\LAB\Desktop\C#\practicals\Bill\Bill\bin\Bill.pdb
+C:\Users\LAB\Desktop\C#\practicals\Bill\Bill\obj\Debug\Bill.dll
+C:\Users\LAB\Desktop\C#\practicals\Bill\Bill\obj\Debug\Bill.pdb
